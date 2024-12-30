@@ -1,2 +1,2 @@
 # bookbot
-For boot.org project bookbot
+BookBot is my first project!
